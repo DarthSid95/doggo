@@ -1,0 +1,21 @@
+# Base configs
+baseurl: "https://DarthSid95.github.io/doggo"
+homeurl: "https://DarthSid95.github.io"
+
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbnails"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Siddarth Asokan"
+subtitle: "See the world through my eyes!"
+author: "Siddarth Asokan"
+header:
+ title: "Photography"
+ subtitle: "by Siddarth Asokan"
+footer:
+ name: "Hey there, my name is Sid"
+ bio: "A collection of my snaps!"
+social_urls:
+  twitter: "https://www.twitter.com/siddarth95"
+  github: "https://www.github.com/darthsid95"
